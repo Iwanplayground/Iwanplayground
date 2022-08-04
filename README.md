@@ -14,3 +14,12 @@
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="pandas" width="31px" src="https://camo.githubusercontent.com/ee91ac3c9f5ad840ebf70b54284498fe0e6ddb92/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f7472616e73702e706e67" /></a>
   <br>
   <br>
+
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Iwanplayground">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ridwan Akmal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
