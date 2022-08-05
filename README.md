@@ -1,5 +1,5 @@
 ### Hi there, I am Ridwan Akmal 👋
-- 🔭 I’m currently Studying at IT UGM (B.Asc) & Math UNY (B.sc)
+- 🔭 I’m currently Studying at IT UGM (BASc) & Math UNY (BSc)
 - 🌱 I’m currently learning Machine learning, Deep learning and Software development
 - 👯 I’m looking to collaborate on Programming, EduSci and Data Science
 - 📫 How to reach me: https://ridwan-space.medium.com/
